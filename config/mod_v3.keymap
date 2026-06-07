@@ -109,7 +109,7 @@
 &lt_to_layer_0 6 Q  &kp W         &kp E         &kp R                  &kp T        &trans                     &trans         &kp Y        &kp U  &lt 5 I    &kp O    &kp P
 &kp A               &kp S         &kp D         &kp F                  &kp G        &kp ESC                    &kp ESC        &kp H        &kp J  &kp K      &kp L    &kp MINUS
 &mt LEFT_SHIFT Z    &kp X         &kp C         &kp V                  &kp B        &kp TAB                    &kp TAB        &kp N        &kp M  &kp COMMA  &kp DOT  &mt RIGHT_SHIFT SLASH
-&kp LCTRL           &kp LEFT_WIN  &kp LEFT_ALT  &lt_to_layer_0 1 INT5  &lt 2 SPACE  &lt_to_layer_0 3 INT4      &lt 2 ENTER                        &trans     &tran    &kp ESCAPE
+&kp LCTRL           &kp LEFT_WIN  &kp LEFT_ALT  &lt_to_layer_0 1 INT5  &lt 2 SPACE  &lt_to_layer_0 3 INT4      &lt 2 ENTER                        &trans     &trans   &kp ESCAPE
             >;
         };
 
