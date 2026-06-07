@@ -1,8 +1,7 @@
 {
-  "id": "mod_v3",
-  "name": "mod_v3",
+  "name": "default_layout",
   "layouts": {
-    "mod_v3": {
+    "default_layout": {
       "layout": [
         { "row": 0, "col":  0, "x":  0, "y": 0 },
         { "row": 0, "col":  1, "x":  1, "y": 0 },
